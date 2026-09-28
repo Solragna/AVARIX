@@ -49,7 +49,7 @@
                                       Final AVARIX answer
 ```
 
-**Every question is independent. Intellex does not use previous chat messages as hidden context for retrieval or answering.**
+Every question is independent. Intellex does not use previous chat messages as hidden context for retrieval or answering.
 
 ## Features
 
@@ -297,7 +297,7 @@ Example:
 }
 ```
 
-## Deployment
+Deployment
 
 For local development:
 
